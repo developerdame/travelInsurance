@@ -1,0 +1,36 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C9F7B212-D67A-4D54-A8A7-B050A67022D6/f:SingleTripCalculatorTests.cs" caret="239" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C9F7B212-D67A-4D54-A8A7-B050A67022D6/f:SingleTripCalculatorTests.cs" caret="354" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="test" priority="1" />
+      <Item value="PolicyTypeCalculatorTests" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="PolicyType" priority="0" />
+      <Item value="singleTrip" priority="0" />
+      <Item value="Assert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

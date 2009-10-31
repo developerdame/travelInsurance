@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "travelInsuranceTests", "travelisurance\travelInsuranceTests.csproj", "{C9F7B212-D67A-4D54-A8A7-B050A67022D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "travelInsurance", "travelInsurance\travelInsurance.csproj", "{C74B9ECA-EC9A-49B1-B80C-7971A4CC888E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F7B212-D67A-4D54-A8A7-B050A67022D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F7B212-D67A-4D54-A8A7-B050A67022D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F7B212-D67A-4D54-A8A7-B050A67022D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F7B212-D67A-4D54-A8A7-B050A67022D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74B9ECA-EC9A-49B1-B80C-7971A4CC888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74B9ECA-EC9A-49B1-B80C-7971A4CC888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74B9ECA-EC9A-49B1-B80C-7971A4CC888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74B9ECA-EC9A-49B1-B80C-7971A4CC888E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+C:\Users\Sara\Desktop\travelisurance\travelisurance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\travelInsuranceTests.dll
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\travelInsuranceTests.pdb
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\Moq.dll
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\nunit.framework.dll
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\nunit.mocks.dll
+C:\Users\Sara\Desktop\travelisurance\travelisurance\bin\Debug\nunit.framework.xml
+C:\Users\Sara\Desktop\travelisurance\travelisurance\obj\Debug\travelInsuranceTests.dll
+C:\Users\Sara\Desktop\travelisurance\travelisurance\obj\Debug\travelInsuranceTests.pdb
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\travelInsuranceTests.dll
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\travelInsuranceTests.pdb
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\nunit.framework.dll
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\nunit.mocks.dll
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\nunit.framework.xml
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\obj\Debug\ResolveAssemblyReference.cache
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\obj\Debug\travelInsuranceTests.dll
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\obj\Debug\travelInsuranceTests.pdb
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\travelInsurance.dll
+E:\John\Visual Studio 2008\Projects\travelisurance\travelisurance\bin\Debug\travelInsurance.pdb
